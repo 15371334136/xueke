@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1457px;
+  width:1610px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -409,8 +409,18 @@
 #u12 {
   border-width:0px;
   position:absolute;
-  left:737px;
-  top:1289px;
+  left:975px;
+  top:1109px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:1510px;
+  top:486px;
   width:100px;
   height:100px;
   overflow:hidden;
